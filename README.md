@@ -5,6 +5,9 @@
 ## 使用方法
 
 ``` bash
+// 安装依赖
+# npm install
+
 # npm run dev
 （或者：node ./src/main.js）
 ```
